@@ -66,6 +66,10 @@ To run the code, you will need to make sure that you have the following dependen
 The `src` folder contains all the code which implements the framework of this paper. Its structure is used when the provided software reads and writes files and references modules.
 
 - Categorize online reviews as redesign, innovation, or noise: `./src/Review Category/`
+- Extract product features: `./src/Review Feature Extraction/`
+- Clustering of extracted features: `./src/Review Feature Clustering/`
+- Calculating the importance, performance and competitiveness of product features: `./src/Calculate Feature Importance, Performance and Competitiveness/`
+- Develop specific product improvement strategies using the MSCS algorithm: `./src/MSCS Algorithm/`
 
 ## Building
 
