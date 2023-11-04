@@ -71,6 +71,19 @@ The `src` folder contains all the code which implements the framework of this pa
 - Calculating the importance, performance and competitiveness of product features: `./src/Calculate Feature Importance, Performance and Competitiveness/`
 - Develop specific product improvement strategies using the MSCS algorithm: `./src/MSCS Algorithm/`
 
+## Results
+
+Figure 4 details how the IPCA plot generates insights into product improvement strategies.
+<img width="700" alt="Results; Table 3" src="https://s2.loli.net/2023/11/04/IFh6KmaNOTEpAWR.png">
+
+Figure 6 shows the IPCA plot of ten redesign and innovation features.
+![image.png](https://s2.loli.net/2023/11/04/s5f6XZL2VgzlFtb.png)
+
+Figure 10 shows the effect comparison of the different algorithms.
+![image.png](https://s2.loli.net/2023/11/04/GVQ9gPRKmJXMLTO.png)
+
+You can access more results from the original paper.
+
 ## Building
 
 In Linux, to build the version that multiplies all elements of a vector by a
