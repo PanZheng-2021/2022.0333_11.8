@@ -74,76 +74,23 @@ The `src` folder contains all the code which implements the framework of this pa
 ## Results
 
 Figure 4 details how the IPCA plot generates insights into product improvement strategies.
+
 <img width="850" src="https://s2.loli.net/2023/11/04/IFh6KmaNOTEpAWR.png">
 
+
 Figure 6 shows the IPCA plot of ten redesign and innovation features.
+
 <img width="850" src="https://s2.loli.net/2023/11/04/s5f6XZL2VgzlFtb.png">
 
+
 Figure 10 shows the effect comparison of the different algorithms.
+
 <img width="850" src="https://s2.loli.net/2023/11/04/GVQ9gPRKmJXMLTO.png">
 
 You can access more results from the original paper.
 
-## Building
+## Appendix
+The file `Online Supplement.pdf` is the online supplementary material for the paper "Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method".
 
-In Linux, to build the version that multiplies all elements of a vector by a
-constant (used to obtain the results in [Figure 1](results/mult-test.png) in the
-paper), stepping K elements at a time, execute the following commands.
-
-```
-make mult
-```
-
-Alternatively, to build the version that sums the elements of a vector (used
-to obtain the results [Figure 2](results/sum-test.png) in the paper), stepping K
-elements at a time, do the following.
-
-```
-make clean
-make sum
-```
-
-Be sure to make clean before building a different version of the code.
-
-## Results
-
-Figure 1 in the paper shows the results of the multiplication test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/mult-test.png)
-
-Figure 2 in the paper shows the results of the sum test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/sum-test.png)
-
-## Replicating
-
-To replicate the results in [Figure 1](results/mult-test), do either
-
-```
-make mult-test
-```
-or
-```
-python test.py mult
-```
-To replicate the results in [Figure 2](results/sum-test), do either
-
-```
-make sum-test
-```
-or
-```
-python test.py sum
-```
-
-## Ongoing Development
-
-This code is being developed on an on-going basis at the author's
-[Github site](https://github.com/tkralphs/JoCTemplate).
-
-## Support
-
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+## Acknowledgement
+We want to thank the editor and anonymous reviewers for their detailed and constructive feedbacks in helping improve the paper. We also want to thank Professor Jiafu Tang's helpful comments. 
