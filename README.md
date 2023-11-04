@@ -65,7 +65,7 @@ To run the code, you will need to make sure that you have the following dependen
 
 The `src` folder contains all the code which implements the framework of this paper. Its structure is used when the provided software reads and writes files and references modules.
 
--Categorize online reviews as redesign, innovation, or noise: `./src/Review Category/`
+- Categorize online reviews as redesign, innovation, or noise: `./src/Review Category/`
 
 ## Building
 
