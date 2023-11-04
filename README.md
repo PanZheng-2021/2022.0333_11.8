@@ -93,4 +93,5 @@ You can access more results from the original paper.
 The file `Online Supplement.pdf` is the online supplementary material for the paper "Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method".
 
 ## Acknowledgement
-We want to thank the editor and anonymous reviewers for their detailed and constructive feedbacks in helping improve the paper. We also want to thank Professor Jiafu Tang's helpful comments. 
+The authors thank the area editor and the anonymous reviewers for their constructive comments.
+This work was supported by the National Natural Science Foundation of China (NSFC) under Project 72071151, and the Natural Science Foundation of Hubei Province, China (2023CFB712).
