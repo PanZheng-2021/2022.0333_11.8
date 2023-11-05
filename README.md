@@ -15,7 +15,7 @@ To cite this software, please cite the [Jindong Qin, Pan Zheng, Xiaojun Wang. Pr
 
 Using its DOI and the software itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/574702645.svg)](https://zenodo.org/badge/latestdoi/574702645)
+[![DOI](https://zenodo.org/badge/714220310.svg)](https://zenodo.org/doi/10.5281/zenodo.10072354)
 
 Below is the BibTex for citing this version of the code.
 
@@ -25,7 +25,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method},
   year =          {2023},
-  doi =           {10.5281/zenodo.7407123},
+  doi =           {10.5281/zenodo.10072354},
   note =          {https://github.com/INFORMSJoC/2022.0333},
 }  
 ```
