@@ -20,7 +20,7 @@ Using its DOI and the software itself, using the following DOI.
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{Redesign2022,
+@article{Qin2022Product,
   author =        {J. D. Qin, P. Zheng, and X. J. Wang},
   publisher =     {INFORMS Journal on Computing},
   title =         {Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method},
