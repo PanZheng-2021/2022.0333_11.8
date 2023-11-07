@@ -59,7 +59,7 @@ In the final phase, based on the obtained importance, performance, and competiti
 
 To run the code, you will need to make sure that you have the following dependencies installed: 
 
-`Python 3.6` `numpy` `tensorflow` `scikit-learn` `stanfordcorenlp` `networkx` `pandas` `gensim` `keras-xlnet`
+`Python 3.6` `numpy` `tensorflow` `scikit-learn` `stanfordcorenlp` `networkx` `pandas` `gensim` `keras-xlnet`
 
 ## Replicating
 
@@ -95,3 +95,7 @@ The file `Online Supplement.pdf` is the online supplementary material for the pa
 The authors thank the area editor and the anonymous reviewers for their constructive comments.
 
 This work was supported by the National Natural Science Foundation of China (NSFC) under Project 72071151, and the Natural Science Foundation of Hubei Province, China (2023CFB712).
+
+## Ongoing Development
+
+The code is being developed on an ongoing basis at the authors [Github site](https://github.com/PanZheng-2021/2022.0333).
